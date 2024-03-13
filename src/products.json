@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "title": "Procesador R7",
+    "description": "R7 5700X",
+    "price": 350000,
+    "thumbnail": "https://www.fullh4rd.com.ar/img/productos/1/micro-amd-ryzen-7-5700x-svideo-scooler-0.jpg",
+    "code": "R7-5X",
+    "stock": 20
+  },
+  {
+    "id": 2,
+    "title": "Procesador I7",
+    "description": "I7 13700K",
+    "price": 273999,
+    "thumbnail": "https://fullh4rd.com.ar/img/productos/1/micro-intel-core-i713700k-scooler-s1700-box-0.jpg",
+    "code": "I7-13K",
+    "stock": 20
+  },
+  {
+    "id": 3,
+    "title": "Procesador R9",
+    "description": "R9 5900X",
+    "price": 435999,
+    "thumbnail": "https://www.computerevolution.com.co/wp-content/uploads/Procesador-AMD-RYZEN-9-5900X.jpg",
+    "code": "R9-5X",
+    "stock": 20
+  },
+  {
+    "id": 4,
+    "title": "Procesador I9",
+    "description": "I9 13900K",
+    "price": 453999,
+    "thumbnail": "https://pcparts.com.uy/wp-content/uploads/2023/08/pcpi9-1.jpg",
+    "code": "I9-13K",
+    "stock": 20
+  },
+  {
+    "id": 5,
+    "title": "RTX 4060",
+    "description": "RTX 4060 Aorus Elite",
+    "price": 568600,
+    "thumbnail": "https://i0.wp.com/ekdonline.com/wp-content/uploads/2023/07/1-87.jpg?fit=1024%2C1024&ssl=1",
+    "code": "RTX4060-A",
+    "stock": 10
+  },
+  {
+    "id": 6,
+    "title": "RTX 4070",
+    "description": "RTX 4070 MSI Gaming X Trio",
+    "price": 721400,
+    "thumbnail": "https://i0.wp.com/ekdonline.com/wp-content/uploads/2023/04/1-97.jpg?fit=1024%2C1024&ssl=1",
+    "code": "RTX4070-MSI",
+    "stock": 10
+  },
+  {
+    "id": 7,
+    "title": "RTX 4080",
+    "description": "RTX 4080 Gigabyte Gaming OC",
+    "price": 1347999,
+    "thumbnail": "https://i0.wp.com/ekdonline.com/wp-content/uploads/2022/11/1-60.jpg?fit=1024%2C1024&ssl=1",
+    "code": "RTX4080-G",
+    "stock": 10
+  },
+  {
+    "id": 8,
+    "title": "RTX 4090",
+    "description": "RTX 4090 Asus Rog Strix",
+    "price": 1500000,
+    "thumbnail": "https://spacegamer.com.ar/img/Public/1058/55986-producto-1.jpg",
+    "code": "RTX4090-AROG",
+    "stock": 10
+  },
+  {
+    "id": 9,
+    "title": "Monitor",
+    "description": "Aorus CV27F",
+    "price": 500000,
+    "thumbnail": "https://cdn.mos.cms.futurecdn.net/WZhmwyBrt6LtrBzCdeyBuG.jpg",
+    "code": "CV27F",
+    "stock": 5
+  },
+  {
+    "id": 10,
+    "title": "Notebook",
+    "description": "Acer Predator Helios 300",
+    "price": 11500,
+    "thumbnail": "https://i.ytimg.com/vi/GC-xa9pl6Ao/maxresdefault.jpg",
+    "code": "APH300",
+    "stock": 3
+  }
+]
